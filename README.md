@@ -1,6 +1,8 @@
 # Jogo da Velha (Tic-Tac-Toe) - JavaScript Orientado a Objetos
 
-![Tela do Projeto de Jogo da Velha](./project.png)
+<p align=center>
+  <img src="./project.png" alt="Tela do Projeto de Jogo da Velha" width=400px height=400px />
+</p>
 
 Este é um projeto simples de Jogo da Velha (Tic-Tac-Toe) desenvolvido em JavaScript utilizando o paradigma de orientação a objetos. O objetivo é proporcionar uma experiência interativa no navegador, permitindo que dois jogadores disputem partidas de forma dinâmica.
 
